@@ -7,8 +7,9 @@
     "node": ">=4.1.0"
   },
   "scripts": {
-    "start": "node scripts/server.js",
-    "monitor": "nodemon scripts/server.js",
+    "start": "node scripts/web-server.js",
+    "test": "node_modules/.bin/protractor test/conf.js",
+    "monitor": "nodemon scripts/web-server.js",
     "postinstall": "gulp"
   },
   "main": "scripts/server.js",
@@ -23,6 +24,7 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
-    "body-parser": "^1.14.1"
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
   }
 }
