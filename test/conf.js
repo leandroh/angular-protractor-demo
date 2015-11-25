@@ -4,7 +4,7 @@ exports.config = {
   framework: 'jasmine2',
 
   specs: [
-    'specs/**'
+    'specs/calculadora-spec.js'
   ],
 
   capabilities: {
