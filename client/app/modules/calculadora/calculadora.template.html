@@ -1,0 +1,11 @@
+<h1>{{ ctrl.title }}</h1>
+
+<form class="form-inline">
+  <input data-ng-model="ctrl.valor1" type="text" class="input-small"/>
+  <select data-ng-model="ctrl.operador" class="span1"
+  data-ng-options="value for (key, value) in ctrl.operadores">
+</select>
+<input data-ng-model="ctrl.valor2" type="text" class="input-small"/>
+<button data-ng-click="ctrl.resultado()" class="btn">Resultado</button>
+<h2>{{ ctrl.valorResultado }}</h2>
+</form>
