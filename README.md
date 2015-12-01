@@ -9,7 +9,7 @@ Prerequisite
 - npm
 
 
-Follow the white rabbit.
+Follow the white rabbit. :rabbit2:
 
 Download demo
 --------------
