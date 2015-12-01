@@ -1,2 +1,3 @@
-# ng-base
-This is a base AngularJS app with a dead simple node+express backend.
+# ng-protractor-demo
+
+This is a dead simple demo test AngularJS application with Protractor tests and backed by a mocked web server in Node.js + Express.
