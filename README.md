@@ -2,6 +2,15 @@
 
 This is a dead simple demo test AngularJS application with Protractor tests and backed by a mocked web server in Node.js + Express.
 
+Prerequisite
+------------
+
+- Node.js
+- npm
+
+
+Follow the white rabbit.
+
 Download demo
 --------------
 
