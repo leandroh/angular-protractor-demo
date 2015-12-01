@@ -44,3 +44,5 @@ Finally run the tests with:
 ``
 npm test
 ``
+
+See magic happening!
