@@ -18,15 +18,6 @@ Download demo
     cd ng-protractor-demo
     npm install
 
-Run the web server
-------------------
-
-Start the mocked web server application in Express with the command:
-
-``
-node scripts/web-server.js
-``
-
 Install Protractor
 ------------------
 
@@ -43,6 +34,15 @@ You will need to get an instance of a Selenium Server running. Use it to downloa
 
 ``
 webdriver-manager update
+``
+
+Run the web server
+------------------
+
+Start the mocked web server application in Express with the command:
+
+``
+node scripts/web-server.js
 ``
 
 Run tests
