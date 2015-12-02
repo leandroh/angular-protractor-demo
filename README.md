@@ -27,8 +27,8 @@ Start the mocked web server application in Express with the command:
 node scripts/web-server.js
 ``
 
-Instal Protractor
------------------
+Install Protractor
+------------------
 
 Use npm to install Protractor globally with:
 
