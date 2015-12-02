@@ -1,6 +1,6 @@
 # ng-protractor-demo
 
-This is a dead simple demo test AngularJS application with Protractor tests and backed by a mocked web server in Node.js + Express.
+In this tutorial/demo we will see how to create a dead simple calculator application using AngularJS and Protractor tests. Protractor runs tests against your application running in a real browser, simulating how a user would interact with your app.
 
 Prerequisite
 ------------
